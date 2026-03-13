@@ -9,6 +9,8 @@ It reads directly from ISO images, interfaces with running PCSX2 emulator instan
 Includes native playback for PS2 audio formats.
 
 
+![Netbio VFL Plus UI](https://raw.githubusercontent.com/n0rthw1ndz/Netbio-VFL-Plus/master/VFL.png)
+
 
 
 ## Features
