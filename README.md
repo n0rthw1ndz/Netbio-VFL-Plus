@@ -9,6 +9,16 @@ It reads directly from ISO images, interfaces with running PCSX2 emulator instan
 Includes native playback for PS2 audio formats.
 
 
+## Supported Versions
+
+| Region | File 1 | File 2 |
+|--------|--------|--------|
+| **NTSC-J (Japan)** | Biohazard Outbreak (SLPM-65428) | Biohazard Outbreak File 2 (SLPM-65692) |
+| **NTSC-U (North America)** | Resident Evil Outbreak (SLUS-20765) | Resident Evil Outbreak File 2 (SLUS-20984) |
+| **PAL (Europe)** | Resident Evil Outbreak (SLES-51589) | Resident Evil Outbreak File 2 (SLES-53319) |
+
+
+
 ![Netbio VFL Plus UI](https://raw.githubusercontent.com/n0rthw1ndz/Netbio-VFL-Plus/master/VFL.png)
 
 
